@@ -3,4 +3,4 @@ A platformer/ space shooter game following the story of a girl who makes a wish 
 with health issues. She then gets teleported to this magic world called Xylia. In order to heal her grandma, she must complete several 
 trials to prove her worth.
 
-Youtube runthrough: https://youtu.be/qrabGieNtwA
+YouTube runthrough: https://youtu.be/qrabGieNtwA
